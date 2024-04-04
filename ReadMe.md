@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning NodeJs, ExpressJs<br>👯 I’m looking to collaborate on Javascript, ReactJs, NextJs, NodeJs, MongoDB, Context API etc<br>💬 Ask me about ReactJs and javascript<br>📫 How to reach me: amanmujawar9977@gmail.com
+🌱 I’m currently learning NodeJs, ExpressJs<br>👯 I’m looking to collaborate on Javascript, ReactJs, NodeJs, ExpressJs, MongoDB, NextJs, Context API etc<br>💬 Ask me about ReactJs and javascript<br>📫 How to reach me: amanmujawar9977@gmail.com
 
 
 ## 🌐 Socials:
